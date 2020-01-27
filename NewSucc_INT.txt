@@ -828,8 +828,8 @@ nespravodlivé
 fed up with [?fed '?p w??,
 w??] I'm fed up with this job. ma niekoho/
 nieèoho po krk
-figure n ['f?g?] Can you read this fi gure? Is it 1 or 7? èíslo, údaj
-fine (n, v) [fa?n] I got a $100 fine for speeding. pokuta, pokutova
+figure n ['f?g?] Can you read this figure Is it 1 or 7? èíslo, údaj
+fine n [fa?n] I got a $100 fine for speeding. pokuta, pokutova
 fire station n ['fa?? ?ste???n] She also visited the fire station. hasièská stanica
 firefi ghter n ['fa???fa?t?] When firefi ghters arrived the fire had
 already gone out. hasiè
@@ -941,10 +941,7 @@ slobody
 punishment n ['p?n??m?nt] You defi nitely didn't deserve such
 punishment. trest
 purse n [p??s] a leather purse. peòaenka
-put sb’s hands
-up
-[?p?t s?mb?diz
-'handz ?p] “Put your hands up,'' he shouted. zdvihnú ruky
+put sb’s hands up [?p?t s?mb?diz 'handz ?p] “Put your hands up,'' he shouted. zdvihnú ruky
 queue n [kju?] There was a long queue for tickets. rada
 racial abuse [?re???l ?'bju?s] The men were arrested for racial abuse.
 rasové
@@ -1072,8 +1069,7 @@ the woods [?? 'w?dz] We got lost in the woods last summer. les(y)
 worth adj [w???] It's not worth the time. ma hodnotu,
 stá za
 UNIT 4
-absent-minded adj [?abs?nt
-'ma?nd?d] absent-minded and forgetful people roztritı,
+absent-minded adj [?abs?nt 'ma?nd?d] absent-minded and forgetful people roztritı,
 nepozornı
 accurate adj ['akj?r?t] He's very accurate in his work. presnı
 adolescence n [?ad?'les?ns] I spent my adolescence in Paris. dospievanie
@@ -1086,8 +1082,8 @@ unadventurous
 ??n?d'vent??r?s] an adventurous bike trip dobrodrunı/
 nedobrodrunı
 advise v [?d'va?z] I advised him to study more. poradi, odporuèi
-aff ectionate adj [?'fek??n?t] an aff ectionate kiss láskyplnı, vrúcny
-aggressive adj [?'gres?v] aggressive behaviour agresívny, útoènı
+affectionate adj [?'fek??n?t] an affectionate kiss. láskyplnı, vrúcny
+aggressive adj [?'gres?v] aggressive behaviour. agresívny, útoènı
 allow v [?'la?] My travels allowed me to learn English. umoni, dovoli
 argue v ['??gju?] He argued that it was a mistake. tvrdi, prehlasova
 attend
@@ -1095,10 +1091,10 @@ attend
 Prague.
 navštevova,
 chodi do
-attractive adj [?'trakt?v] a very attractive singer príalivı, peknı
+attractive adj [?'trakt?v] a very attractive singer. príalivı, peknı
 awful adj ['??f?l] The food tasted awful. hroznı, strašnı
 behave v [b?'he?v] The children behaved very well. chova sa, jedna
-berries ['beriz] red berries bobu¾ové ovocie
+berries ['beriz] red berries. bobu¾ové ovocie
 boarding school n ['b??d?? sku?l] They attend a boarding school. internátna škola
 born adj [b??n] I was born in Ireland. narodenı
 bossy adj ['b?si] She's so bossy. rozkazovaènı,
@@ -1109,18 +1105,14 @@ NEW SUCCESS – INTERMEDIATE | 21
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 UNIT 123
 4 5 6 7 8 9 10 11 12
-change a light
-bulb
-[?t?e?nd? ? 'la?t
-b?lb] I have changed all the light bulbs. vymeni iarovku
+change a light bulb [?t?e?nd? ? 'la?t b?lb] I have changed all the light bulbs. vymeni iarovku
 childhood n ['t?a?ldh?d] We had a happy childhood. detstvo
 chore n [t???] Don't forget to do your chores. domáce práce,
 povinnos
-classroom n ['kl??s-r?m,
--ru?m] a nicely decorated classroom trieda
+classroom n ['kl??s-r?m, -ru?m] a nicely decorated classroom trieda
 clear the table [?kl?? ?? 'te?b?l] Clear the table before you do your
 homework. uprata stôl
-coeducational adj [?k??edj?'ke???n?l] coeducational schools zmiešané,
+coeducational adj [?k??edj?'ke???n?l] coeducational schools. zmiešané,
 koedukaèné
 come back late [?k?m bak 'le?t] She came back late again. vráti sa neskôr
 comprehensive
@@ -1128,8 +1120,8 @@ school n [?k?mpr?'hens?v
 ?sku?l] a London comprehensive school všeobecná stredná
 škola v Británii
 conclusion n [k?n'klu???n] In conclusion, I would like to.... záver
-connection n [k?'nek??n] A connection between art and science vzah, súvislos
-conscientious adj [?k?n?i'en??s] a conscientious student svedomitı,
+connection n [k?'nek??n] A connection between art and science. vzah, súvislos
+conscientious adj [?k?n?i'en??s] a conscientious student. svedomitı,
 starostlivı
 considerate/
 inconsiderate
@@ -2900,59 +2892,50 @@ I told him I was leaving. úas, ohromenı
 amazing adj [?'me?z??] The story was really amazing. úasnı,
 ohromujúci
 anger n ['a?g?] He can't control his anger. zlos, hnev
-anger sb v ['a?g?
-?s?mb?di] It angered me that he was late again. rozèúli niekoho
+anger sb v ['a?g? ?s?mb?di] It angered me that he was late again. rozèúli niekoho
 angry adj ['a?gri] Are you angry with me? rozèúlenı,
 naštvanı
 anxiety n [a?'za??ti] Too much caff eine can cause anxiety
 and depression. úzkos, strach
 anxious adj ['a?k??s] I felt anxious about his health. úzkostlivı,
 znek¾udnenı
-appeal n [?'pi?l] an appeal for help (naliehavá)
+appeal n [?'pi?l] an appeal for help. (naliehavá)
 iados, vızva
 argument n ['??gj?m?nt] I had a bad argument with my best
 friend. hádka
-arrogant adj ['ar?g?nt] arrogant behaviour arogantnı
+arrogant adj ['ar?g?nt] arrogant behaviour. arogantnı
 backache n ['bake?k] Do you suff er from backache? boles chrbta
 be alright [bi ???l'ra?t] I hope he's all right. by v poriadku
-believe one’s
-ears
-[b??li?v w?nz
-'??z]
+believe one’s ears [b??li?v w?nz '??z]
 I couldn't believe my ears when she told
 me about it.
 veri vlastnım
 ušiam
-body language n ['b?di
-?la?gw?d?]
+body language n ['b?di ?la?gw?d?]
 Your body language tells other people
 how you feel. reè tela
 bone n [b??n] The fi sh has a lot of bones. kos
 breath n [bre?] His breath smelled of cigarettes. dych
 breathe v [bri??] I don't want to breathe this horrible air. dıcha
-broken (leg/
-arm) ['br??k?n] a broken leg zlomenı
+broken (leg/ arm) ['br??k?n] a broken leg. zlomenı
 NEW SUCCESS – INTERMEDIATE | 51
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 UNIT 12345678
 9 10 11 12
-broken-hearted adj [?br??k?n
-'h??t?d]
+broken-hearted adj [?br??k?n 'h??t?d]
 I was broken-hearted when my friend
 died.
 so zlomenım
 srdcom, zdrvenı
-burst into tears [?b??st ?nt?
-'t??z]
+burst into tears [?b??st ?nt? 't??z]
 Why do you always have to burst into
 tears? rozplaka sa
 bush n [b??] He was hiding in the bushes. ker
 calm adj [k??m] Try to stay calm. k¾údnı
-carefree adj ['ke?fri?] a carefree student bezstarostnı,
+carefree adj ['ke?fri?] a carefree student. bezstarostnı,
 pohodovı
 cash n [ka?] You can only pay in cash. hotovos
-catch (a virus/
-fl u) [kat?] He thinks he has caught a virus. chyti(vírus,
+catch (a virus/ flu) [kat?] He thinks he has caught a virus. chyti(vírus,
 chrípku)
 change sb’s
 mind
@@ -2973,7 +2956,7 @@ clap v [klap] Everyone started to clap when the show
 fi nished. tlieska
 coincidence n [k??'?ns?d?ns] It was a coincidence that he was in
 Paris too. náhoda
-comical adj ['k?m?k?l] a comical scene komickı
+comical adj ['k?m?k?l] a comical scene. komickı
 concentration n [?k?ns?n'tre???n] I was tired and lost my concentration. koncentrácia
 confused adj [k?n'fju?zd] I felt confused and angry about the
 situation. zmätenı
@@ -2986,14 +2969,10 @@ cough v [k?f] I coughed all night. kaš¾a
 count v [ka?nt] I need to count how much money
 I have. poèíta
 cover n ['k?v?] She was on the cover of Cosmopolitan. obal, obálka
-covered in sth ['k?v?d ?n
-?s?m???] The victim was covered in blood pokrytı nieèím
-creative adj [kri'e?t?v] a creative musician kreatívny, tvorivı
-crowded adj ['kra?d?d] a crowded bus preplnenı
-cuts and
-bruises
-[?k?ts ?n
-'bru?z?z] He was covered in cuts and bruises. škrabance
+covered in sth ['k?v?d ?n ?s?m???] The victim was covered in blood. pokrytı nieèím
+creative adj [kri'e?t?v] a creative musician. kreatívny, tvorivı
+crowded adj ['kra?d?d] a crowded bus. preplnenı
+cuts and bruises [?k?ts ?n 'bru?z?z] He was covered in cuts and bruises. škrabance
 a modriny
 NEW SUCCESS – INTERMEDIATE
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
@@ -3017,25 +2996,24 @@ disappoint v [?d?s?'p??nt] I don't want to disappoint you but I won't
 be able to come. sklama
 disappointed adj [?d?s?'p??nt?d] We were disappointed when our team
 lost. sklamanı
-disappointing adj [?d?s?'p??nt??] disappointing results neuspokojivı
+disappointing adj [?d?s?'p??nt??] disappointing results. neuspokojivı
 disappointment n [?d?s?'p??ntm?nt] The concert was a major
 disappointment. sklamanie
 divorce n [d?'v??s] He said he wanted a divorce. rozvod
 down-to-earth adj [?da?n tu '???] She is sensible and down-to-earth. praktickı,
 realistickı
-echo n ['ek??] the echo of voices echo, ozvena
+echo n ['ek??] the echo of voices. echo, ozvena
 embarrassed adj [?m'bar?st] I felt embarrassed when I remembered
 what I wrote to her.
 v rozpakoch,
 cíti sa trápne
-embarrassing adj [?m'bar?s??] embarrassing questions trápny, nepríjemnı
+embarrassing adj [?m'bar?s??] embarrassing questions. trápny, nepríjemnı
 embarrassment n [?m'bar?sm?nt] My face was still hot with
 embarrassment. rozpaky
 emotion n [?'m????n] I'm learning to control my emotions. emócie
 emotional adj [?'m????n?l] I felt very emotional during the wedding
 ceremony. emotívny, citlivı
-end in sth ['end ?n
-?s?m???] The party ended in death. skonèi
+end in sth ['end ?n ?s?m???] The party ended in death. skonèi
 face sth v ['fe?s ?s?m???] A lot of students face this problem. èeli
 facial
 expression
@@ -3050,7 +3028,7 @@ fear v [f??] What do you fear most? bá sa
 feel like crying [?fi ?l la?k 'kra???]
 I felt like crying when I saw the
 destroyed fl at. by do plaèu
-feeling n ['fi ?l??] feelings of happiness pocit
+feeling n ['fi ?l??] feelings of happiness. pocit
 NEW SUCCESS – INTERMEDIATE | 53
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 UNIT 12345678
@@ -3059,11 +3037,10 @@ feeling sick [?fi ?l?? 's?k] Pete said he was feeling sick in the
 morning. necíti sa dobre
 fi nancially adv [f?'nan??li, fa?-] It will really help us fi nancially. fi nanène
 fl irt v [fl ??t] My boss tried to fl irt with me. fl irtova
-fl u n [fl u?] The kids have the fl u. chrípka
+flu n [fl u?] The kids have the flu. chrípka
 focus on ['f??k?s ?n] We are going to focus on adjectives
 today. sústredi sa
-follow sb ['f?l??
-?s?mb?di]
+follow sb ['f?l?? ?s?mb?di]
 I didn't know where I was so I just
 followed another group.
 nasledova
@@ -3092,25 +3069,21 @@ by nervózny,
 rozrušenı
 hay fever n [?he? 'fi ?v?] My daughter suff ers from hay fever. senná nádcha
 health n [hel?] Smoking is bad for your health. zdravie
-heartbreaking adj ['h??t?bre?k??] a heartbreaking story srdcervúci
+heartbreaking adj ['h??t?bre?k??] a heartbreaking story. srdcervúci
 hilarious adj [h?'le?ri?s] He always tells hilarious jokes. ve¾mi smiešny,
 na popukanie
 hopeful adj ['h??pf?l] We are still hopeful that they will fi nd
 him. nádejnı, s¾ubnı
 infection n [?n'fek??n] Most infections are caused by viruses. infekcia
-infl uence v ['?nfl u?ns] His work is infl uenced by Picasso. vplyv
-insect bite ['?nsekt ba?t] We were all covered in insect bites poštípanie
+influence v ['?nfl u?ns] His work is influenced by Picasso. vplyv
+insect bite ['?nsekt ba?t] We were all covered in insect bites. poštípanie
 hmyzom
 insect repellent ['?nsekt
 r??pel?nt] Can I borrow your insect repellent? repelent proti
 hmyzu
 insomnia n [?n's?mni?] My grandmother suff ers from insomnia. nespavos
-inspirational adj [??nsp?'re???n?l] an inspirational speech inšpirujúci
-Internet
-discussion
-group
-[??nt?net
-d?'sk???n gru?p] members of Internet discussion groups internetová
+inspirational adj [??nsp?'re???n?l] an inspirational speech. inšpirujúci
+Internet discussion group [??nt?net d?'sk???n gru?p] members of Internet discussion groups. internetová
 diskusná skupina
 interpreter n [?n't??pr?t?] She works as an interpreter in Brussels. tlmoèník,
 tlmoèníèka
@@ -3135,34 +3108,31 @@ marry v ['mari] He married his high school girlfriend.
 zobra si niekoho,
 vyda sa, oeni
 sa
-miff ed adj [m?ft] I was a bit miff ed because he didn't call
+miffed adj [m?ft] I was a bit miffed because he didn't call
 me. dotknutı
 miss v [m?s] We missed the fi rst part of the play. premeška
-missing adj ['m?s??] a missing dog stratenı, h¾adanı
-moving adj ['mu?v??] a moving poem dojemnı, pohyblivı
+missing adj ['m?s??] a missing dog. stratenı, h¾adanı
+moving adj ['mu?v??] a moving poem. dojemnı, pohyblivı
 nervous adj ['n??v?s] Do you feel nervous before an exam? nervózny
 off ended adj [?'fend?d] They were off ended because we hadn't
 invited them. urazenı, dotknutı
-over the moon [???v? ??
-'mu?n]
+over the moon [???v? ?? 'mu?n]
 Pam was over the moon about her new
 computer. nadšenı
 overjoyed adj [???v?'d???d] I'm overjoyed that they're coming to visit
 us. ve¾mi šastnı
 panic v ['pan?k] Don't panic. (s)panikári
-parachute jump ['par??u?t
-?d??mp]
+parachute jump ['par??u?t ?d??mp]
 Learn how to make a parachute jump
 with us. zoskok s padákom
 pass v [p??s] If you had studied more, you would
 have passed the exam. prejs
-patient (adj,
-n) ['pe???nt] I'm a patient of Dr Novak. trpezlivı, pacient
+patient (adj, n) ['pe???nt] I'm a patient of Dr Novak. trpezlivı, pacient
 personality n [?p??s?'nal?ti] She has a very warm personality. povaha, charakter
 pity/shame ['p?ti, ?e?m] It's a pity/shame that the weather is so
 bad. škoda, hanba
-pleased adj [pli?zd] a pleased smile potešenı
-poem n ['p???m] a love poem báseò
+pleased adj [pli?zd] a pleased smile. potešenı
+poem n ['p???m] a love poem. báseò
 prize n [pra?z] I won the fi rst prize. cena
 publish v ['p?bl??] The book was fi rst published in 1987. publikova
 realise v ['r??la?z] I didn't realize how diffi cult the
@@ -3175,14 +3145,13 @@ relieved adj [r?'li?vd] They were relieved when he fi nally
 called them.
 uk¾udnenı,
 pocíti ú¾avu
-rented adj ['rent?d] a rented fl at prenajímanı
+rented adj ['rent?d] a rented flat. prenajímanı
 NEW SUCCESS – INTERMEDIATE | 55
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 UNIT 12345678
 9 10 11 12
 ridiculous adj [r?'d?kj?l?s] You look ridiculous in that shirt. trápny, smiešny
-run down sth [?r?n 'da?n
-?s?m???]
+run down sth [?r?n 'da?n ?s?m???]
 I'll run down the list to check that we
 have everything.
 prejs si
@@ -3190,28 +3159,22 @@ prejs si
 sad adj [sad] We were sad that he couldn't come with
 us. smutnı
 sadden v ['sadn] The news has saddened me. zarmúti
-sadness n ['sadn?s] deep sadness smútok
+sadness n ['sadn?s] deep sadness. smútok
 sarcastic adj [s??'kast?k] Is he being sarcastic? sarkastickı,
 uštipaènı
-sb’s heart
-missed a beat
-[s?mb?diz ?h??t
-m?st ? 'bi?t]
+sb’s heart missed a beat [s?mb?diz ?h??t m?st ? 'bi?t]
 When I heard the shot, my heart missed
 a beat.
-zastavi (niekoho)
-srdce prekvapením
+zastavi (niekoho) srdce prekvapením
 scared adj [ske?d] I'm scared that I'll fail my exams. vystrašenı
-scarf n [sk??f] a silk scarf šatka, šál
-search v [s??t?] You can search the Internet to fi nd the
+scarf n [sk??f] a silk scarf. šatka, šál
+search v [s??t?] You can search the Internet to find the
 answer. (vy)h¾ada
-self-confi dent adj [?self
-'k?nf?d?nt] a self-confi dent football player sebavedomı
-sentimental adj [?sent?'mentl] a sentimental old woman sentimentálny
-shock (n,
-v) [??k] The speech shocked everyone. šok, šokova
+self-confident adj [?self 'k?nf?d?nt] a self-confi dent football player. sebavedomı
+sentimental adj [?sent?'mentl] a sentimental old woman. sentimentálny
+shock n [??k] The speech shocked everyone. šok, šokova
 shocked adj [??kt] We were shocked by the news. šokovanı
-shocking adj ['??k??] a shocking documentary šokujúci
+shocking adj ['??k??] a shocking documentary. šokujúci
 sneeze v [sni?z] She sneezed loudly. kıchnu si
 softly adv ['s?ftli] The teacher spoke very softly. jemne
 sore throat [?s?? '?r??t] I have a sore throat. boles v hrdle
@@ -3220,22 +3183,22 @@ a stomachache. boles brucha
 suff er from ['s?f? fr?m,
 fr?m] He suff ers from depression. trpie
 surprised adj [s?'pra?zd] I was surprised that it was so cheap. prekvapenı
-surprising adj [s?'pra?z??] a surprising answer prekvapujúci
+surprising adj [s?'pra?z??] a surprising answer. prekvapujúci
 take a (deep)
 breath [?te?k ? 'bre?] Take a deep breath and dive into the
 water.
 z hlboka sa
 nadıchnu
-tear n [t??] tears of happiness slza
-temperamental adj [?temp?r?'mentl] temperamental fi lm stars temperamentnı
+tear n [t??] tears of happiness. slza
+temperamental adj [?temp?r?'mentl] temperamental film stars. temperamentnı
 tense adj [tens] She was tense and couldn't sleep. napätı
-terrifi ed adj ['ter?fa?d] a terrifi ed child vydesenı
+terrified adj ['ter?fa?d] a terrified child. vydesenı
 terrify v ['ter?fa?] The bombing terrifi ed the whole country. (vy)desi niekoho
-terrifying adj ['ter?fa?-??] a terrifying picture hroznı
+terrifying adj ['ter?fa?-??] a terrifying picture. hroznı
 terror n ['ter?] They escaped the city in terror. hrôza, des
 thrilled adj [?r?ld] I was thrilled when I heard about the
 party. nadšenı
-thrilling adj ['?r?l??] a thrilling story vzrušujúci
+thrilling adj ['?r?l??] a thrilling story. vzrušujúci
 twist (an ankle) 0 [tw?st] She slipped and twisted her ankle. vytknú si èlenok
 NEW SUCCESS – INTERMEDIATE
 ANGLICKO-SLOVENSKİ SLOVNÍÈEK
@@ -3243,14 +3206,13 @@ ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 upset (adj) [??p'set] She was upset about the broken glass. rozrušenı,
 znepokojenı
 uptight adj ['?pta?t, ?p'ta?t] Don't get so uptight about it. upätı
-voice n [v??s] a deep voice hlas
-war n [w??] the fi rst world war vojna
-wealthy adj ['wel?i] a wealthy businessman bohatı
+voice n [v??s] a deep voice. hlas
+war n [w??] the first world war. vojna
+wealthy adj ['wel?i] a wealthy businessman. bohatı
 whisper v ['w?sp?] She whispered in his ear. šepka
 wish v [w??] I wish I could talk to him now. pria si
 work v [w??k] She works as a waitress. pracova
-work out
-(a problem) [?w??k 'a?t] I think I've fi nally worked out the
+work out (a problem) [?w??k 'a?t] I think I've fi nally worked out the
 problem. vyrieši
 worry v ['w?ri] Don't worry about it. robi si starosti
 UNIT 10
