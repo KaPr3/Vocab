@@ -1,29 +1,24 @@
 import random
-from CreateDic import create_dic
+from TestFunctions import get_book, test
 
-source = "NewSucc_INT.txt"
-vocab = create_dic(source)
+vocab = get_book(0)
 
-unit = 0
 def get_unit():
+    unit = 0
     while unit == 0:
         temp_unit = int(input("Ktorá lekcia? "))
         if temp_unit > 0 and temp_unit < 13:
-            unit = temp_unit
+            return temp_unit
         else:
             print("Invalid input.")
+            
+unit = get_unit()
 
-unit = 9
+test_type = -1
 
-def test():
-    wordE = random.choice(list(vocab[unit].keys()))
-    wordS = vocab[unit][wordE]
-    user_word = input(wordS + " ")
+test_type = int(input("Typ testu: (0 = normálny, 1 = inteligentný) "))
 
-    if user_word == wordE:
-        print("Good job!")
-    else:
-        print("Wrong! The correct word is: " + wordE)
+questions = int(input("Počet otázok? "))
 
-while True:
-    test()
+test(test_type, questions, vocab[unit])
+

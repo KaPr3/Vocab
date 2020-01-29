@@ -63,6 +63,8 @@ def create_dic(file):
                             wordE = line[prev_word:letter-3]
                         elif line[letter-4:letter-1] == "adj" or line[letter-4:letter-1] == "adv":
                             wordE = line[prev_word:letter-4]
+                        elif "(adj, v)" in line:
+                            wordE = line[prev_word:line.find("(adj, v)")]
                         else:
                             wordE = line[prev_word:letter-1]
                         

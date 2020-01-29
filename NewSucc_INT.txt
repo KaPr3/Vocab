@@ -137,8 +137,7 @@ first-year student [?f??st j??'stju?d?nt]
 First year students should attend the
 meeting. novı študent
 fool around phrv [?fu?l ?'ra?nd] He always used to fool around in class. blbnú, zahráva sa
-fresher n ['fre??] I can't wait for the Freshers to start. prvák (študent
-1.roèníka na VŠ)
+fresher n ['fre??] I can't wait for the Freshers to start. prvák (študent 1.roèníka na VŠ)
 gang n [ga?] a street gang. gang, banda
 generalisation n [?d?en?r?la?'ze???n] You can't make generalisations about
 teenagers. zovšeobecnenie
@@ -1570,16 +1569,13 @@ ANGLICKO-SLOVENSKİ SLOVNÍÈEK
 28 | 12 11 10 9 8 7 6
 5 4321 UNIT
 factory n ['fakt?ri] They work in a car factory. továreò
-fall out of
-fashion
-[?f??l a?t ?v
-'fa??n]
+fall out of fashion [?f??l a?t ?v 'fa??n]
 These clothing brands have fallen out of
 fashion. vyjs z módy
 feed v [fi ?d] Don't feed the animals in the zoo. kàmi
-fi sh n [f??] Have you caught any fi sh yet? ryba
-fl oat v [fl ??t] Small boats fl oated on the water. pláva, vznáša sa
-fl ood n [fl ?d] The fl oods in Prague complicated the
+fish n [f??] Have you caught any fi sh yet? ryba
+float v [fl ??t] Small boats fl oated on the water. pláva, vznáša sa
+flood n [fl ?d] The fl oods in Prague complicated the
 traffi c. povodeò
 focus on v ['f??k?s ?n] We're going to focus on the topic of
 global warming. sústredi sa
@@ -2780,8 +2776,7 @@ sphereing ['sf??r??] Sphereing is usually done on a hillside. sphere zorbing
 square adj [skwe?] The restaurant is in the main square. námestie
 steep adj [sti?p] a steep hill prudkı
 suburb n ['s?b??b] the suburbs of London predmestie
-suff er from ['s?f? fr?m,
-fr?m]
+suffer from ['s?f? fr?m, fr?m]
 The writer suff ered from depressions all
 his life. trpie
 suitable adj ['su?t?b?l, 'sju?-] The show is not suitable for children. vhodnı
@@ -2960,7 +2955,7 @@ comical adj ['k?m?k?l] a comical scene. komickı
 concentration n [?k?ns?n'tre???n] I was tired and lost my concentration. koncentrácia
 confused adj [k?n'fju?zd] I felt confused and angry about the
 situation. zmätenı
-congratulations [k?n?grat??'le???nz] 'I have passed all my exams.''
+congratulations [k?n?grat??'le???nz] 'I have passed all my exams''
 ''Congratulations.'' blahoelanie
 control v [k?n'tr??l] I couldn't control myself and started to
 scream.
@@ -3015,13 +3010,9 @@ emotional adj [?'m????n?l] I felt very emotional during the wedding
 ceremony. emotívny, citlivı
 end in sth ['end ?n ?s?m???] The party ended in death. skonèi
 face sth v ['fe?s ?s?m???] A lot of students face this problem. èeli
-facial
-expression
-['fe???l
-?k?spre??n] a concentrated facial expression vıraz tváre
+facial expression ['fe???l ?k?spre??n] a concentrated facial expression vıraz tváre
 fail v [fe?l] I failed all my exams. neuspie
-faint (adj,
-v) [fe?nt] This is the fi rst time I've fainted. omdlie
+faint (adj, v) [fe?nt] This is the first time I've fainted. omdlie
 fault n [f??lt] It's not my fault. I did what you told me. chyba
 fear n [f??] She was shaking with fear. strach
 fear v [f??] What do you fear most? bá sa
@@ -3035,8 +3026,8 @@ UNIT 12345678
 9 10 11 12
 feeling sick [?fi ?l?? 's?k] Pete said he was feeling sick in the
 morning. necíti sa dobre
-fi nancially adv [f?'nan??li, fa?-] It will really help us fi nancially. fi nanène
-fl irt v [fl ??t] My boss tried to fl irt with me. fl irtova
+financially adv [f?'nan??li, fa?-] It will really help us financially. finanène
+flirt v [fl ??t] My boss tried to flirt with me. flirtova
 flu n [fl u?] The kids have the flu. chrípka
 focus on ['f??k?s ?n] We are going to focus on adjectives
 today. sústredi sa
@@ -3137,8 +3128,7 @@ prize n [pra?z] I won the fi rst prize. cena
 publish v ['p?bl??] The book was fi rst published in 1987. publikova
 realise v ['r??la?z] I didn't realize how diffi cult the
 homework was. uvedomi si
-regret (n,
-v) [r?'gret] Do you regret the decision? ¾utova
+regret v [r?'gret] Do you regret the decision? ¾utova
 relaxed adj [r?'lakst] I fi nally felt relaxed. oddıchnutı
 relief n [r?'li?f] It was such a relief to fi nish my exams. ú¾ava
 relieved adj [r?'li?vd] They were relieved when he fi nally
@@ -3154,8 +3144,7 @@ ridiculous adj [r?'d?kj?l?s] You look ridiculous in that shirt. trápny, smiešny
 run down sth [?r?n 'da?n ?s?m???]
 I'll run down the list to check that we
 have everything.
-prejs si
-(zoznam a pod)
+prejs si (zoznam a pod)
 sad adj [sad] We were sad that he couldn't come with
 us. smutnı
 sadden v ['sadn] The news has saddened me. zarmúti
