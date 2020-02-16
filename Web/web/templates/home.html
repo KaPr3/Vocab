@@ -1,0 +1,5 @@
+{% extends "layout.html" %}
+{% block content %}
+	<a href = "{{ url_for('main.test', book = 0) }}"> <img src="static/Int.jpg" height="360" width="250" align="middle"> <p> Intermediate (1. - 2. ročník) </p> </a>
+	<a href = "{{ url_for('main.test', book = 1) }}"> <img src="static/Upp.jpg" height="360" width="250" align="middle"> <p> Upper Intermediate (3. - 4. ročník) </p> </a>
+{% endblock content%}

@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+	<div class="content-section">
+	<form method="POST" action="">
+		<div class="form-group">
+			{{ form.unit.label(class="form-control-label") }}
+			{{ form.unit(class="form-control form-control-lg") }}
+		</div>
+		<div class="form-group">
+			{{ form.number.label(class="form-control-label") }}
+			{{ form.number(class="form-control form-control-lg") }}
+		</div>
+		
+		<div>
+		{{ form.submit(class="btn btn-outline-info") }}
+		<div>
+	</form>
+	</div>
+{% endblock content%}
